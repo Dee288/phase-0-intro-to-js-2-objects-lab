@@ -1,6 +1,6 @@
 const employee ={
     name: 'lee',
-    streetAddress: '11 Broatway',
+    streetAddress: 'Broatway',
 }
 console.log(employee)
 
